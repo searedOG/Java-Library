@@ -1,0 +1,38 @@
+//Java is object oriented, but not all types are objects. It is built upon by basic variables called primitives.
+
+//All primitives in java
+
+//byte = (number, 1 byte)
+//short = (number, 2 bytes)
+// int = (number, 4 bytes)
+// long = (number, 8 bytes)
+// float = (float number, 4 bytes)
+// double = (float number, 8 bytes)
+// char = (character, 2 bytes)
+// boolean = (true or false, 1 byte)
+
+// Java is a strong typed language, meaning you have to define a primitive before using it
+
+// To declare and assign a number use this syntax
+int mynumber;
+mynumber = 8
+// Optianlly, you can use this syntax
+int mynumber = 8;
+
+// To define a double floating point number, use the following syntax
+double d = 4.5;
+d = 3.0;
+
+// If you want to use float you will have to cast
+float f = (float) 4.5;
+
+//Or use this 
+float f = 4.5f (f is a shorter way of using float)
+
+
+// Characters and strings
+
+// In java, a character is its own type, and not a number. Use the following syntax to define a character
+char c = 'g'
+
+// http://www.learnjavaonline.org/en/Variables_and_Types LEFT OFF WITH STRINGS 
