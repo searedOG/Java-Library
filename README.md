@@ -1,2 +1,2 @@
 # Java-Library
-//Just to help myself learn, and study
+Just to help myself learn, and study
