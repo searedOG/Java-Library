@@ -1,0 +1,25 @@
+/ Objects in java are called classes (Java is object oriented)
+
+/ "Hello World Program"
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+// Java is case sensitive
+// First line defines the class
+// main = Name of the method
+// public = any class can access it, or person
+// static = run this method without creating an instance of main 
+// void = Method returns no value
+
+
+// Line 3 (Hello World)
+// system = a pre-defined class that java provides us, and holds some useful methods and variables
+// out = A static variable within system that represenets the output of your program (stdout = standard output)
+// println = A method that is used to print a line
+
+
+//String = defined in other places (Maybe?)
