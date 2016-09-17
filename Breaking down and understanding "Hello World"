@@ -1,6 +1,6 @@
-/ Objects in java are called classes (Java is object oriented)
+// Objects in java are called classes (Java is object oriented)
 
-/ "Hello World Program"
+// "Hello World Program"
 
 public class Main {
     public static void main(String[] args) {
